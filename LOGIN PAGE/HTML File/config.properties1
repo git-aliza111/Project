@@ -1,0 +1,10 @@
+login=com.LoginAction
+login.success=Welcome1.html
+login.register=Register1.html
+
+logout=com.logoutAction
+logout.success=login.html
+
+register=com.RegisterAction
+register.success=login.html
+register.failure=failure.html
