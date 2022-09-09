@@ -1,3 +1,4 @@
 # Project
-Sign Up Page
+Sign Up Page.
+
 LOGIN PAGE ASSIGNMENT
